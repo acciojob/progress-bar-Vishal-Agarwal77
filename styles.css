@@ -35,7 +35,9 @@
 }
 #circles .active{
 	border:4px solid #3498DB;
+	transition:border 0.5s;
 }
 #circles .active-line{
 	background:#3498DB;
+	transition:background 1s;
 }
